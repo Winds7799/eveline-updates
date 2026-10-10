@@ -3,22 +3,22 @@
  "patches": {
   "android": {
    "0.8.2": {
-    "patch": 2,
-    "url": "https://raw.githubusercontent.com/Winds7799/eveline-updates/main/packs/android/0.8.2/p2.pck",
-    "size": 19910576,
-    "sha256": "6c4f5f0f1873552d4e8e9bc2b0e1c2679facfa5ad42694f424a330d15e3f42fb",
-    "sig": "aSVdo0lfVdsaYe0QXbxRMwH1XATFFpKTsbSTUyJGogd7cs6VQ7dlR63j6reoa7sQZzs61DTrbGQx7G84TjK/Mm5i1JY1mlgCmD3wsZyie5TYCpRxNhsoKPXMfx/Md849GAnEi9nm6Oru4eIuVcK16wwT9oXuspGSPQ4qvv2xUCZzvfp1EfqAPpBdYs6pMU73dYDoQUSNnOFa47uLrwHKznrLrW8qOwJhvZvalFgrKsaXL84Z/PQXiMdfpvWrD0evNGMf/+/zKr2tLcryd22i2eLLtjTQ/+m+vax+5dluQSszaizdtTWzOuV9cahwNTKsfNiZNES54Oevu4Mazr5zeg==",
-    "notes": "The hunter is now Dr Halloran, the old Director. Eveline stays the ghost of the story."
+    "patch": 3,
+    "url": "https://raw.githubusercontent.com/Winds7799/eveline-updates/main/packs/android/0.8.2/p3.pck",
+    "size": 20119888,
+    "sha256": "33a49c5cc6a9da8e5a9135a9de27304aad107acdaa4644b14021e69af3f806f5",
+    "sig": "a38pVG9TgUf3ayKKHnDI4UpcHAyerMeUfIVpczS7Rg+m2wA8SCtHTQrTNuo6F/fCnLFfM933PzAh8F6lvBKoFkMQxoaA8n/RTgmXjUz/NiWC5vXj1DcezX1EG1msAKqPYou74LkZWr5q9+EVzvBiYSswySjuit3ux2o6E4rsYuyMrjJiN5MAfIEzVAn3wex49OQFkJsq7bgcQR5HWUfnrW9LFEXnWssLZ2u+JclKkXfOc3XPjyYp24qIO3kTWR0ZqjLsmBUUOUVKUuEZHj9IwYV3ZMuLqLTh6cE6Heo9uZOx+XykVqywx8MpxVuzt85faXl+r14N2BSwHXoDXxvCdg==",
+    "notes": "Part 2 is an in-app purchase: a paywall after the escape; Part 1 and Part 2 on the title screen."
    }
   },
   "ios": {
    "0.8.2": {
-    "patch": 2,
-    "url": "https://raw.githubusercontent.com/Winds7799/eveline-updates/main/packs/ios/0.8.2/p2.pck",
-    "size": 19910576,
-    "sha256": "6c4f5f0f1873552d4e8e9bc2b0e1c2679facfa5ad42694f424a330d15e3f42fb",
-    "sig": "C3cLSK9SuMDrRKjj2DJuoC5Sb7YHnj4tMEq5hlmQwzZZhKErwYXHXL7sCW0/DTqhiE1884Dy0MBn9cc5Ya8vGMMvnCp81PRvN68TuBkX42o1njyofTl4lU5mAfC9/seoI6i+Me90o7jVFeRmQCtsERNQ5M6BH2M0Cw8Xuc6cv1xPB6obEWyvL4dPaHX/t6nvqKGxsA/P08n5UPr+wUXAsO9QLJF7IBsuA0XhFobtqw7oaPeuJmxI1InssFUfiTCVxvefn5cBr4rnpaD6R512ZqdOj/D0bkRbd1u15k+gsSsLaCSF+kfrK0o/ekJFjANEPbW5mvG9J3ohpRxaiH4u2Q==",
-    "notes": "The hunter is now Dr Halloran, the old Director. Eveline stays the ghost of the story."
+    "patch": 3,
+    "url": "https://raw.githubusercontent.com/Winds7799/eveline-updates/main/packs/ios/0.8.2/p3.pck",
+    "size": 20124016,
+    "sha256": "1860f3bebf515719510be69f70019e7fb7971435b131375b71093af318466934",
+    "sig": "YaQar7Tp6bNzyTju5cC0lM1YzCVodNTT4SiH0bbSt4PDee+aIYdrSqohIuwHzXd//LXOFupqxfayXCSwag4eofGTvXwEN8Znp2sEzAoPPOOY65OkG7kpmIKaLnGaF6/wr4v1gYo5Di8iV1PvvJUCh+oSmxP/ohg2WIwfAReIACoSUOfB/HFy71x9tWN1//b+44nXt5Q44+bFrP4bb/D12C7FgZdlOpaX0VR1FaDW0TOjGutalSM0PYlFAnBsi9Z2OvdXh/ocOJoGLMkTccvCbm02h5rmD2QdXOi81vUG55Zu6zWMdIFjg/PDxRi4WQmpyUVXj2xSp1kq24L2Ag2zYw==",
+    "notes": "Part 2 is an in-app purchase: a paywall after the escape; Part 1 and Part 2 on the title screen."
    }
   }
  }
