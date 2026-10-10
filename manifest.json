@@ -3,22 +3,22 @@
  "patches": {
   "android": {
    "0.8.2": {
-    "patch": 1,
-    "url": "https://raw.githubusercontent.com/Winds7799/eveline-updates/main/packs/android/0.8.2/p1.pck",
-    "size": 63504,
-    "sha256": "b8886857e0f514df59dceaa4baa6792f86d1560d562f4e7289d894aea74df00b",
-    "sig": "ieSriMKjC7wOTkv4azb7iJ6bv32rhlNsMRGY0QVOFz2+6Wg+zhkTtmCJiQZNlqD3hv1irbrg8Y7OPG4Osua/5LJqQFulFCgE5L5sIM9z7iJm6NJ1O4+Gq8Zs14Ymi59SKodSuR12xeIx4R7Z+ENa9aFnv7dZt5irrIldTCB/zU5440HhWJvgeusw8NrNuEJSwIp4HeEaISA9NTr4vbmLr17ehVDT4PJ8BvXE0J3iQutok/6YNASz5oph+Rfo9CQPFve80HQf9iFPh5KI6vce1wDzM4Vjq/Bw2KFiVUVkvVrflPODlIg/eGMPrUUh/PcwHHBEw2iDjNpbwZY4pVNZKQ==",
-    "notes": "Eveline is silent when she sees you. For testing: every door and the gate open at a touch."
+    "patch": 2,
+    "url": "https://raw.githubusercontent.com/Winds7799/eveline-updates/main/packs/android/0.8.2/p2.pck",
+    "size": 19910576,
+    "sha256": "6c4f5f0f1873552d4e8e9bc2b0e1c2679facfa5ad42694f424a330d15e3f42fb",
+    "sig": "aSVdo0lfVdsaYe0QXbxRMwH1XATFFpKTsbSTUyJGogd7cs6VQ7dlR63j6reoa7sQZzs61DTrbGQx7G84TjK/Mm5i1JY1mlgCmD3wsZyie5TYCpRxNhsoKPXMfx/Md849GAnEi9nm6Oru4eIuVcK16wwT9oXuspGSPQ4qvv2xUCZzvfp1EfqAPpBdYs6pMU73dYDoQUSNnOFa47uLrwHKznrLrW8qOwJhvZvalFgrKsaXL84Z/PQXiMdfpvWrD0evNGMf/+/zKr2tLcryd22i2eLLtjTQ/+m+vax+5dluQSszaizdtTWzOuV9cahwNTKsfNiZNES54Oevu4Mazr5zeg==",
+    "notes": "The hunter is now Dr Halloran, the old Director. Eveline stays the ghost of the story."
    }
   },
   "ios": {
    "0.8.2": {
-    "patch": 1,
-    "url": "https://raw.githubusercontent.com/Winds7799/eveline-updates/main/packs/ios/0.8.2/p1.pck",
-    "size": 63504,
-    "sha256": "b8886857e0f514df59dceaa4baa6792f86d1560d562f4e7289d894aea74df00b",
-    "sig": "I4TpVWJMPLsHV+s4kv2HBMjzySJO0vlwV70Tk5iiWbNgITJ7u8/gQ+bPabM2ppv8ICN+rwfO156NOLLIk8doIgfhxRfZMS2DXWfM44th4aC4No82mquKtvRdhf4PmS4LR7z9cxvriioH9ciR59S1W5hM+7wbPOLRKoDsCYBBGkSySaQjZ4hM/y/uoSj40OEoxSMGhVYvItAoLUGdyKWUohrNfp9fngekzvKgk42SYbS6SLgXAkfwdBQN5onSVYqfrFTVO2aiOwxAM9zR+7kg54C1ykJZC8q9jnp/kIHXer0TFUyQnYnYrArHel+q0lb/Xu4xDXB48xLT76BPycBA6A==",
-    "notes": "Eveline is silent when she sees you. For testing: every door and the gate open at a touch."
+    "patch": 2,
+    "url": "https://raw.githubusercontent.com/Winds7799/eveline-updates/main/packs/ios/0.8.2/p2.pck",
+    "size": 19910576,
+    "sha256": "6c4f5f0f1873552d4e8e9bc2b0e1c2679facfa5ad42694f424a330d15e3f42fb",
+    "sig": "C3cLSK9SuMDrRKjj2DJuoC5Sb7YHnj4tMEq5hlmQwzZZhKErwYXHXL7sCW0/DTqhiE1884Dy0MBn9cc5Ya8vGMMvnCp81PRvN68TuBkX42o1njyofTl4lU5mAfC9/seoI6i+Me90o7jVFeRmQCtsERNQ5M6BH2M0Cw8Xuc6cv1xPB6obEWyvL4dPaHX/t6nvqKGxsA/P08n5UPr+wUXAsO9QLJF7IBsuA0XhFobtqw7oaPeuJmxI1InssFUfiTCVxvefn5cBr4rnpaD6R512ZqdOj/D0bkRbd1u15k+gsSsLaCSF+kfrK0o/ekJFjANEPbW5mvG9J3ohpRxaiH4u2Q==",
+    "notes": "The hunter is now Dr Halloran, the old Director. Eveline stays the ghost of the story."
    }
   }
  }
