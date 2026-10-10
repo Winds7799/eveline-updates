@@ -1,4 +1,25 @@
 {
  "format": 1,
- "patches": {}
+ "patches": {
+  "android": {
+   "0.8.2": {
+    "patch": 1,
+    "url": "https://raw.githubusercontent.com/Winds7799/eveline-updates/main/packs/android/0.8.2/p1.pck",
+    "size": 63504,
+    "sha256": "b8886857e0f514df59dceaa4baa6792f86d1560d562f4e7289d894aea74df00b",
+    "sig": "ieSriMKjC7wOTkv4azb7iJ6bv32rhlNsMRGY0QVOFz2+6Wg+zhkTtmCJiQZNlqD3hv1irbrg8Y7OPG4Osua/5LJqQFulFCgE5L5sIM9z7iJm6NJ1O4+Gq8Zs14Ymi59SKodSuR12xeIx4R7Z+ENa9aFnv7dZt5irrIldTCB/zU5440HhWJvgeusw8NrNuEJSwIp4HeEaISA9NTr4vbmLr17ehVDT4PJ8BvXE0J3iQutok/6YNASz5oph+Rfo9CQPFve80HQf9iFPh5KI6vce1wDzM4Vjq/Bw2KFiVUVkvVrflPODlIg/eGMPrUUh/PcwHHBEw2iDjNpbwZY4pVNZKQ==",
+    "notes": "Eveline is silent when she sees you. For testing: every door and the gate open at a touch."
+   }
+  },
+  "ios": {
+   "0.8.2": {
+    "patch": 1,
+    "url": "https://raw.githubusercontent.com/Winds7799/eveline-updates/main/packs/ios/0.8.2/p1.pck",
+    "size": 63504,
+    "sha256": "b8886857e0f514df59dceaa4baa6792f86d1560d562f4e7289d894aea74df00b",
+    "sig": "I4TpVWJMPLsHV+s4kv2HBMjzySJO0vlwV70Tk5iiWbNgITJ7u8/gQ+bPabM2ppv8ICN+rwfO156NOLLIk8doIgfhxRfZMS2DXWfM44th4aC4No82mquKtvRdhf4PmS4LR7z9cxvriioH9ciR59S1W5hM+7wbPOLRKoDsCYBBGkSySaQjZ4hM/y/uoSj40OEoxSMGhVYvItAoLUGdyKWUohrNfp9fngekzvKgk42SYbS6SLgXAkfwdBQN5onSVYqfrFTVO2aiOwxAM9zR+7kg54C1ykJZC8q9jnp/kIHXer0TFUyQnYnYrArHel+q0lb/Xu4xDXB48xLT76BPycBA6A==",
+    "notes": "Eveline is silent when she sees you. For testing: every door and the gate open at a touch."
+   }
+  }
+ }
 }
