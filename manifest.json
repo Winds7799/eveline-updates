@@ -9,6 +9,14 @@
     "sha256": "33a49c5cc6a9da8e5a9135a9de27304aad107acdaa4644b14021e69af3f806f5",
     "sig": "a38pVG9TgUf3ayKKHnDI4UpcHAyerMeUfIVpczS7Rg+m2wA8SCtHTQrTNuo6F/fCnLFfM933PzAh8F6lvBKoFkMQxoaA8n/RTgmXjUz/NiWC5vXj1DcezX1EG1msAKqPYou74LkZWr5q9+EVzvBiYSswySjuit3ux2o6E4rsYuyMrjJiN5MAfIEzVAn3wex49OQFkJsq7bgcQR5HWUfnrW9LFEXnWssLZ2u+JclKkXfOc3XPjyYp24qIO3kTWR0ZqjLsmBUUOUVKUuEZHj9IwYV3ZMuLqLTh6cE6Heo9uZOx+XykVqywx8MpxVuzt85faXl+r14N2BSwHXoDXxvCdg==",
     "notes": "Part 2 is an in-app purchase: a paywall after the escape; Part 1 and Part 2 on the title screen."
+   },
+   "1.0": {
+    "patch": 1,
+    "url": "https://raw.githubusercontent.com/Winds7799/eveline-updates/main/packs/android/1.0/p1.pck",
+    "size": 94288,
+    "sha256": "d865f0143a5132acc482b4c7534e8e1407610a05b42e897df299433ab2c32b27",
+    "sig": "TiedoxkC4YsZ7a2946ubPxRMleEu6R7gnp+1HDJuaYjS5dd7k//4YyL1Ga+3nkqVZezV4gHpDD5GTGOKoABIK6UStfBKdh7F9iV409m5F8hDqRTBm6lgWL+SMjF6G34/sc4ni9gzk6pmAFt3AX2sYgF/Ip++rTtkD/pXnpUfH5ZhW6xqEeDGyk3idM1T1jgKNWL3HleM0mrwqiaqvtJpid1avDRSCsTs6CV+X1EZrByLArE8M9drLK0Ot843N7G62NMmBJI8QVBT8bM412V1TiZ7ma3A1Dma7O12xWgiFXIgLtl7qcSF1BMzbehUR3s4TmKy12HA+aCMF2ib6pQwyg==",
+    "notes": "All doors are locked again; a secret opens them."
    }
   },
   "ios": {
@@ -19,6 +27,14 @@
     "sha256": "1860f3bebf515719510be69f70019e7fb7971435b131375b71093af318466934",
     "sig": "YaQar7Tp6bNzyTju5cC0lM1YzCVodNTT4SiH0bbSt4PDee+aIYdrSqohIuwHzXd//LXOFupqxfayXCSwag4eofGTvXwEN8Znp2sEzAoPPOOY65OkG7kpmIKaLnGaF6/wr4v1gYo5Di8iV1PvvJUCh+oSmxP/ohg2WIwfAReIACoSUOfB/HFy71x9tWN1//b+44nXt5Q44+bFrP4bb/D12C7FgZdlOpaX0VR1FaDW0TOjGutalSM0PYlFAnBsi9Z2OvdXh/ocOJoGLMkTccvCbm02h5rmD2QdXOi81vUG55Zu6zWMdIFjg/PDxRi4WQmpyUVXj2xSp1kq24L2Ag2zYw==",
     "notes": "Part 2 is an in-app purchase: a paywall after the escape; Part 1 and Part 2 on the title screen."
+   },
+   "1.0": {
+    "patch": 1,
+    "url": "https://raw.githubusercontent.com/Winds7799/eveline-updates/main/packs/ios/1.0/p1.pck",
+    "size": 94288,
+    "sha256": "d865f0143a5132acc482b4c7534e8e1407610a05b42e897df299433ab2c32b27",
+    "sig": "ik7H/i+Q344JO5IX9SRjOoYjioNDEprDv7q1fGEsXO0/sVq5zPuyhN0jOcuvmHheprqaLKp+eoevyXHzurOKfmJYZUrYhHziTa/+Afe67kxDu3cQqUOh4g8IQR5S9Mc0Ftj8ixSxt0ttBHwTtNWkILwfQYY3bt5iWaTgdiQM5cQffNc6L9mR+X7dquKNGvFZa6wzgh3EsZ6sTxD9JjG4aWFUbQO8vDBH7Ja27tD6acdlp6gykfbIOObZV7dmcYcA7EsOnUH+0Hy3uy77SNx4m7+Jr4MrlSJotNj9GhRmn0GDwmWJqUT+mnAkLZzOjo4ZALgnDFwi80yoZarFnX5Lpw==",
+    "notes": "All doors are locked again; a secret opens them."
    }
   }
  }
