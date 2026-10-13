@@ -11,12 +11,12 @@
     "notes": "Part 2 is an in-app purchase: a paywall after the escape; Part 1 and Part 2 on the title screen."
    },
    "1.0": {
-    "patch": 3,
-    "url": "https://raw.githubusercontent.com/Winds7799/eveline-updates/main/packs/android/1.0/p3.pck",
-    "size": 121536,
-    "sha256": "e976dcdf21466810550f0e98fe2c455ddbec595cc2ecd826d828953502e21ffb",
-    "sig": "Zc7kFkL6noy7pqrgDCyB2Up5LU27VeUaQCHfoDKO3WBWFlQmbxVbkGoz/O7yA9BJ8mFEBKr5R4XLk0fQhy09WJP+gHcH7oUhoXWGvo9Cq5soWDXQhuI88DZC3UGxLdQkzwU56tXnQMtdVwvYqZ6SoJ9IqZVmJyduga/bsimb8NcDlpkSPRN5XQAASC7/RYsNvnS8THNP3Imd/120rbKg9gI8Lqg1vMZfhq0BhM5fYAEDsl7LizUKW7QxsUBsN4H+hvN/CSdJ4zNIRJjCaV8gpFSEwIQ7Ea6ppqEEta5GDclzMr+gKdyevGVU1bhmwvhhNYGlInR3BNtMDUZMnionHw==",
-    "notes": "Buying Part 2 no longer freezes the game."
+    "patch": 4,
+    "url": "https://raw.githubusercontent.com/Winds7799/eveline-updates/main/packs/android/1.0/p4.pck",
+    "size": 3903664,
+    "sha256": "7171649cb4b5a9eade5f5de1301be608d8701241a5f3267a0915c1f3fc2dae2d",
+    "sig": "A/GL2Q/akq1ISv59eCh8Dy1oXZyNN4Q905xQX0DTSWgNS3clU/uxIMu8vrEWhxqoV7hhbQ5zIOMcp4h73Ph5djztZu+g5ma3QJrh5AUVn4uyqJkhl6lQYEEzxx5wCHKMtsOZjCohYNWFV/HpOkxkF9YapuSgWoBCZz2zIu/Y5W3XzvnmRCPjIi2esubG/5ZXR83+LLL3oH4XOVXLMe9OhQcFNH5bUmwJSZ3Nw/I7YS5Jb3Dl27Mlk+aJ24E8diofzHRrHe1MrNX/rmA3ZXX7y33hiJt3a510Qji/T3Gzk7TvLdRbLXup7q8Ss1rapVc3erQW08FgYl7lEPbMESWANg==",
+    "notes": "A map in the corner (tap it for the whole floor), and notes on the walls that say how to get out of each part."
    }
   },
   "ios": {
@@ -29,12 +29,12 @@
     "notes": "Part 2 is an in-app purchase: a paywall after the escape; Part 1 and Part 2 on the title screen."
    },
    "1.0": {
-    "patch": 3,
-    "url": "https://raw.githubusercontent.com/Winds7799/eveline-updates/main/packs/ios/1.0/p3.pck",
-    "size": 121536,
-    "sha256": "e976dcdf21466810550f0e98fe2c455ddbec595cc2ecd826d828953502e21ffb",
-    "sig": "BZr5ExkjJVbEZhGpu4w14BGAQT03hrJfwuXxTbPkgYanxcDcyv5dw7O+SddE2/cKYoGP2uGSNilLhs3wf+rZhZBRBbzcAtMdkKtiO1TtEqx+0fgKJfCxBEUGKx6MuQVopQA6RTI9PDXzGaw5JzLUsrBoGQxO9N5KpRWYb3gyxilAdF8l/A1z63b5wJpr8sduf4jXrtc2dB3jc+ilzGtQPOtOg+CJ9bgW5ZRr3eTiaJipLpiaVKW60+pWmTAZhU5RMV5XxOzLbbBcUUL0wugcuzZxvq0ZtKEQB0zrtOuOgNsvtr5jO9PrGMZkS81FH5/0XmnqNh3VJRTzAGG2fHFoaQ==",
-    "notes": "Buying Part 2 no longer freezes the game."
+    "patch": 4,
+    "url": "https://raw.githubusercontent.com/Winds7799/eveline-updates/main/packs/ios/1.0/p4.pck",
+    "size": 3903664,
+    "sha256": "7171649cb4b5a9eade5f5de1301be608d8701241a5f3267a0915c1f3fc2dae2d",
+    "sig": "IUtDvPX4JS58ZQkCFoqCyMn0xreZPvDCejU3vlRzsHdUWsc0yJ8cnsPI4sLqTdCKzdJLzgojEIH/dd2ZrAgJYcSn2Cc8YDtgDcQ9Oa+XvUqgSXjwPsfKm+3B2J9vElivtyW+bYEHWSpFnU3mM/qa5q67D/Po4O/IYpkrrPb6CeVC02KVGIBLq7B+Q8SSkZ4+0i2q/jWxRLPrR5VuZ6ABko4Nt5M/ygBvlMrSdr7S4IECLZthgqh3tp+Cf7pn05qQiqu6g82o6SbI1htv2j2pgLe9Q+ifG/SgdojXrVO3UaZEnuHljsxMcdbYfm5Ws8/WDPm1Ggp9XvpF82zvQC1VbA==",
+    "notes": "A map in the corner (tap it for the whole floor), and notes on the walls that say how to get out of each part."
    }
   }
  }
